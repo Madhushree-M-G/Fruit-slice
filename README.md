@@ -4,6 +4,7 @@ A fun and interactive Fruit Slice Game built using HTML, CSS, and jQuery.
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Demo video](#demo-video)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,6 +15,8 @@ A fun and interactive Fruit Slice Game built using HTML, CSS, and jQuery.
 
 ## Introduction
 The Fruit Slice Game is a simple, yet addictive game where players can slice fruits appearing on the screen to score points. The game utilizes jQuery for dynamic interactions and animations, providing a smooth and engaging user experience.
+
+## Demo video
 ![demo video](https://github.com/user-attachments/assets/106dec03-4639-4b21-8b7b-09e7598b9288)
 
 ## Features
