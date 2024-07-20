@@ -29,25 +29,26 @@ The Fruit Slice Game is a simple, yet addictive game where players can slice fru
 2. **Navigate to the Project Directory:**
    ```sh
    cd fruit-slice-game
-##Usage
+## Usage
    Open the index.html file in your browser to start the game.
    Use your mouse or touch (on touch-enabled devices) to slice the fruits.
    Try to slice as many fruits as possible to achieve a high score
 
 ## Screenshots
+![Screenshot 2024-07-20 164134](https://github.com/user-attachments/assets/8a4428ee-134f-4b50-be88-050ee44c4922)
 
-##Technologies Used
+## Technologies Used
 * HTML5: For structuring the game layout.
 * CSS3: For styling the game elements.
 * jQuery: For handling dynamic interactions and animations.
 
-##Credits
+## Credits
 This project uses images from the following sources:
-* [logomaker](logomakr.com)
-* [openclipart](openclipart.org)
-This project uses sounds from [freesound](freesound.org)
+* logomakr.com
+* openclipart.com
+This project uses sounds from freesound.com
 
 ## Contact
 * Author: Madhushree M G
-* GitHub: Madhushree-M-G
+* GitHub: [Madhushree-M-G](https://github.com/Madhushree-M-G)
 
