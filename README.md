@@ -15,15 +15,30 @@ A fun and interactive Fruit Slice Game built using HTML, CSS, and jQuery.
 
 ## Introduction
 The Fruit Slice Game is a simple, yet addictive game where players can slice fruits appearing on the screen to score points. The game utilizes jQuery for dynamic interactions and animations, providing a smooth and engaging user experience.
+[demo video]("C:\Users\mgvij\OneDrive\Documents\video-fruit-slice.mp4")
 
 ## Features
 - **Dynamic Fruit Generation:** Fruits appear randomly on the screen.
 - **Slice Animation:** Fruits can be sliced with a smooth cutting effect.
 - **Score Tracking:** Keeps track of the player's score.
-- **Responsive Design:** Works on different screen sizes and devices.
 - **Sound Effects:** Adds sounds for slicing fruits.
 
 ## Installation
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/yourusername/fruit-slice-game.git
+2. **Navigate to the Project Directory:**
+   ```sh
+   cd fruit-slice-game
+##Usage
+   Open the index.html file in your browser to start the game.
+   Use your mouse or touch (on touch-enabled devices) to slice the fruits.
+   Try to slice as many fruits as possible to achieve a high score
+
+## Screenshots
+
+##Technologies Used
+* HTML5: For structuring the game layout.
+* CSS3: For styling the game elements.
+* jQuery: For handling dynamic interactions and animations.
+
